@@ -1,4 +1,4 @@
-package com.mranasspro.imagesearcher
+package com.mranasspro.gpslivetracker
 
 import androidx.test.platform.app.InstrumentationRegistry
 import org.junit.Assert.assertEquals
@@ -14,6 +14,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.mranasspro.imagesearcher", appContext.packageName)
+        assertEquals("com.mranasspro.gpslivetracker", appContext.packageName)
     }
 }

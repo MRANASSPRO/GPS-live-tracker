@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Image Searcher"
+rootProject.name = "GPS Live Tracker"

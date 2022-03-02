@@ -1,4 +1,4 @@
-package com.mranasspro.imagesearcher
+package com.mranasspro.gpslivetracker
 
 import org.junit.Test
 
